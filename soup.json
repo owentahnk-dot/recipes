@@ -1,0 +1,320 @@
+[
+  {
+    "id": "soup-sze-chuan-beef-noodle-soup",
+    "category": "soup",
+    "title": "Sze-Chuan Beef Noodle Soup",
+    "chineseTitle": null,
+    "image": "images/soup/p01.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": [
+          "2 [lbs] beef shank",
+          "6 garlic buds",
+          "6 scallions",
+          "3 anise seeds",
+          "4 slices of ginger",
+          "1 TBS peppercorns",
+          "3 TBS hot bean paste",
+          "1 cup soy sauce",
+          "2 TBS wine",
+          "1 TBS salt",
+          "1 TBS sugar"
+        ]
+      },
+      {
+        "heading": "To Prepare",
+        "type": "steps",
+        "items": [
+          "Cut the beef into 1 inch squares and cook for 30 seconds in hard boiling water then remove.",
+          "Place the meat in a deep pot, add hot water to about 2 inches above the top of the meat. Add the scallion, anise seed, ginger, cover and let simmer for over 2 hours.",
+          "In the wok, heat 1/4 cup oil and stir fry the garlic. Add the peppercorn, hot bean paste, soy sauce, wine, and salt and cook the mix for a short time.",
+          "Add the sugar and the seasoning mixture to the beef soup and cover and let simmer for 1 more hour.",
+          "Prepare a serving bowl by placing 1 TBS chopped scallion in a bowl, add beef and some of the beef soup, add cooked noodles and serve hot."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "soup-miso-shiru-soup",
+    "category": "soup",
+    "title": "Miso-Shiru Soup",
+    "chineseTitle": null,
+    "image": "images/soup/p02.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": [
+          "4 oz dried fish",
+          "1 cup Miso",
+          "1 cup Katsubushi (dried Bonito shavings)",
+          "1 soft bean curd",
+          "1/4 cup chopped scallion"
+        ]
+      },
+      {
+        "heading": "To Prepare",
+        "type": "steps",
+        "items": [
+          "Make fish stock by bringing 10 cups of water to a boil and then add the dried fish. Simmer for 15 minutes and then remove the fish from the stock.",
+          "Add the miso to the soup stock and blend well. Then add the bean curd and heat until the bean curd is thoroughly cooked. Next add the katsubushi and scallion. Cook gently for a short time and then serve hot."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "soup-nami-aki-oolong",
+    "category": "soup",
+    "title": "Nami-Aki Oolong",
+    "chineseTitle": null,
+    "image": "images/soup/p03.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": [
+          "2 cups soup stock",
+          "1/4 cup fresh green spinach",
+          "1/2 tsp salt",
+          "1/8 tsp MSG",
+          "1 egg",
+          "1 cup cooked oolong noodles",
+          "1 black mushroom",
+          "3 pieces 1\" length scallion",
+          "2 slices fresh pork",
+          "1 slice fresh fish cake",
+          "1 fresh cherrystone clam"
+        ]
+      },
+      {
+        "heading": "To Prepare",
+        "type": "steps",
+        "items": [
+          "Place all A ingredients in a cooking pot. Add soup stock to A ingredients and when they reach boil with heat add the rest of the ingredients.",
+          "When soup is done remove it to a serving bowl. Garnish or compliment with chopped scallion and finely grated red pepper."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "soup-chicken-velvet-soup",
+    "category": "soup",
+    "title": "Chicken Velvet Soup",
+    "chineseTitle": "鷄茸湯",
+    "image": "images/soup/p04.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": [
+          "4 oz boneless chicken breast meat",
+          "2 egg whites well beaten",
+          "2 TBS chopped ham"
+        ]
+      },
+      {
+        "heading": "Mixture A",
+        "type": "list",
+        "items": [
+          "1 egg white",
+          "4 TBS water"
+        ]
+      },
+      {
+        "heading": "Mixture B",
+        "type": "list",
+        "items": [
+          "6 cups chicken stock",
+          "1 can creamed corn",
+          "2 tsp salt",
+          "1 tsp MSG",
+          "1/2 tsp white pepper",
+          "1/2 tsp sesame seed oil"
+        ]
+      },
+      {
+        "heading": "Mixture C",
+        "type": "list",
+        "items": [
+          "4 TBS cornstarch",
+          "4 TBS water"
+        ]
+      },
+      {
+        "heading": "To Prepare",
+        "type": "steps",
+        "items": [
+          "Chop the chicken until it has the texture of paste. Add it to mixture A and stir well.",
+          "Bring mixture B to a boil, add the chicken paste mixture and stir well. Add mixture C.",
+          "As the soup thickens, add the egg whites and stir well.",
+          "Serve in a bowl with the ham sprinkled over the top of individual servings."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "soup-mustard-pickle-soup",
+    "category": "soup",
+    "title": "Mustard Pickle Soup",
+    "chineseTitle": "榨菜肉絲湯",
+    "image": "images/soup/p05.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": [
+          "6 cup soup stock",
+          "1/2 C shredded scallion",
+          "1 C shredded mustard pickle",
+          "2 oz shredded pork tenderloin",
+          "1/4 C shredded bamboo shoot",
+          "1/4 C shredded pea pods",
+          "1 tsp salt",
+          "dash black pepper",
+          "1/2 tsp sesame oil with chili"
+        ]
+      },
+      {
+        "heading": "Marinade",
+        "type": "list",
+        "items": [
+          "1/2 tsp wine",
+          "1 tsp cornstarch",
+          "1/8 tsp salt"
+        ]
+      },
+      {
+        "heading": "To Prepare",
+        "type": "steps",
+        "items": [
+          "Bring soup stock to a boil.",
+          "Marinate pork for 10 minutes. When broth is boiling, add meat and stir. Add the shredded vegetables (except the scallion) and stir again. Taste and add 1 tsp salt if needed. Add mustard pickle and scallion and dash of pepper. Season with 1/2 tsp sesame oil with chili and serve."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "soup-won-ton-soup",
+    "category": "soup",
+    "title": "Won-Ton Soup",
+    "chineseTitle": "餛飩湯",
+    "image": "images/soup/p06.jpg",
+    "sections": [
+      {
+        "heading": "Won-Ton Filling",
+        "type": "list",
+        "items": [
+          "1/2 LB ground lean pork",
+          "1 TBS chopped scallion",
+          "1 TBS soy sauce",
+          "1 TBS sesame oil",
+          "1 tsp salt",
+          "1/4 tsp MSG",
+          "1 cup fresh shrimp, water chestnut or fresh Chinese cabbage"
+        ]
+      },
+      {
+        "heading": null,
+        "type": "steps",
+        "items": [
+          "Mix the above ingredients together in a bowl.",
+          "Place 1-1/2 tsp filling onto a won-ton skin and crimp the edge.",
+          "Set aside and cover with a damp cloth."
+        ]
+      },
+      {
+        "heading": "Soup Base",
+        "type": "list",
+        "items": [
+          "8 cups chicken broth",
+          "4 black mushrooms",
+          "1/2 LB bok-choy",
+          "1 scallion chopped",
+          "salt to taste",
+          "a few drops of sesame oil",
+          "a dash of MSG if desired"
+        ]
+      },
+      {
+        "heading": "To Prepare",
+        "type": "steps",
+        "items": [
+          "Bring the chicken broth to a boil, add the black mushrooms and when it reaches boil again, cover it and let it simmer for at least 15 minutes.",
+          "Add salt to taste and the bok-choy and when it reaches boil again add the won-ton, scallion, and sesame oil. Allow to cook about 1 minute before removing wonton soup to serving bowl."
+        ]
+      },
+      {
+        "heading": "To Boil Won-Ton",
+        "type": "steps",
+        "items": [
+          "Boil the won-ton in 4 quarts of boiling water for 3-5 minutes until the won-ton floats to the top then remove to the soup base or serve as is."
+        ]
+      },
+      {
+        "heading": "To Deep Fry the Won-Ton",
+        "type": "steps",
+        "items": [
+          "Deep fry the won-ton in 375° oil until golden brown then drain them and serve hot."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "soup-tomato-soup",
+    "category": "soup",
+    "title": "Tomato Soup",
+    "chineseTitle": "蕃茄湯",
+    "image": "images/soup/p07.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": [
+          "2 eggs well beaten",
+          "1 stick scallion chopped",
+          "4 oz ground pork"
+        ]
+      },
+      {
+        "heading": "Mixture A",
+        "type": "list",
+        "items": [
+          "4 oz water chestnuts chopped",
+          "2 firm tomatoes cut into 1 inch cubes",
+          "1/2 cup black mushroom soaked and cut into 1 inch cubes"
+        ]
+      },
+      {
+        "heading": "Mixture B",
+        "type": "list",
+        "items": [
+          "4 cup tomato juice",
+          "4 cup chicken broth",
+          "1 tsp salt",
+          "1 TBS sugar",
+          "1/2 tsp black pepper"
+        ]
+      },
+      {
+        "heading": "Mixture C",
+        "type": "list",
+        "items": [
+          "3 TBS cornstarch",
+          "3 TBS water"
+        ]
+      },
+      {
+        "heading": "To Prepare",
+        "type": "steps",
+        "items": [
+          "Use 2 TBS hot oil to stir fry the scallion and pork until cooked.",
+          "Add mixture A and stir together.",
+          "Add mixture B and bring the soup to a boil. Thicken it with mixture C, then add the egg.",
+          "Mix well heat for a minute and then serve hot."
+        ]
+      }
+    ]
+  }
+]

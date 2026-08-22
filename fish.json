@@ -1,0 +1,800 @@
+[
+  {
+    "id": "fish-tempura",
+    "category": "fish",
+    "title": "Tempura",
+    "chineseTitle": "日式炸大蝦",
+    "image": "images/fish/p01.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": ["Big fresh shrimp", "Sliced fresh fish", "Sliced fresh squid"]
+      },
+      {
+        "heading": "Vegetables (Suggested)",
+        "type": "list",
+        "items": [
+          "Fresh string beans",
+          "Sliced Carrots",
+          "Sliced sweet potato",
+          "Sliced white mushroom",
+          "Sliced baby eggplant",
+          "Sliced green pepper",
+          "Sliced bamboo shoot",
+          "Scallion sticks",
+          "Lotus root",
+          "Onion Slices",
+          "Snow peapods"
+        ]
+      },
+      {
+        "heading": "Batter mix",
+        "type": "list",
+        "items": ["1 egg yoke", "2 cups cold water", "1/8 tsp baking soda", "1 and 2/3 cups flour"]
+      },
+      {
+        "heading": "Dipping Sauce",
+        "type": "list",
+        "items": ["1 TBS wine", "3 cups fish stock", "1/2 cup soy sauce", "2 TBS sugar", "dash MSG"]
+      },
+      {
+        "heading": "To prepare",
+        "type": "steps",
+        "items": [
+          "Dip each piece of fish and vegetable at a time into the batter and coat them thoroughly. Deep fry in hot oil at about 375°.",
+          "Serve the deep-fried tempura with grated white turnip in a portion of the dipping sauce."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-sashimi",
+    "category": "fish",
+    "title": "Sashimi",
+    "chineseTitle": null,
+    "image": "images/fish/p02.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": [
+          "1/2 to 1 lb. absolutely fresh fish of any or all of the following types: squid, tuna, striped bass, sea bass, red snapper, salmon, abalone, or filleted porgy",
+          "1/2 cup shredded turnip and/or carrot",
+          "4 TBS soy sauce",
+          "wasabi to taste"
+        ]
+      },
+      {
+        "heading": "To Prepare",
+        "type": "steps",
+        "items": [
+          "Scale, clean and bone the fish as necessary. Cut it into 1 1/2\" square pieces and arrange on a serving platter. Garnish with the vegetable.",
+          "Prepare the dipping sauce using the soy sauce and wasabi to taste. Serve cold and immediately to insure freshness."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-fish-casserole",
+    "category": "fish",
+    "title": "Fish Casserole",
+    "chineseTitle": null,
+    "image": "images/fish/p03.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": ["1 2-lb. whole fish", "4 oz. sliced pork"]
+      },
+      {
+        "heading": "Sauce 1",
+        "type": "list",
+        "items": ["1 TB wine", "3 TB soy sauce"]
+      },
+      {
+        "heading": "Sauce 2",
+        "type": "list",
+        "items": ["1 1/2 tsp. soy sauce", "1 1/2 tsp. wine", "1 TB cornstarch"]
+      },
+      {
+        "heading": "Braising Sauce and Vegetables",
+        "type": "list",
+        "items": [
+          "1 TB wine",
+          "3 TB soy sauce",
+          "1 TB sugar",
+          "3-4 cup soup stock",
+          "4 black mushrooms",
+          "1 cup bamboo shoot",
+          "2 bean curd cakes",
+          "6 dried chili peppers"
+        ]
+      },
+      {
+        "heading": "Cornstarch mixture",
+        "type": "list",
+        "items": ["1/4 cup water", "1 TB cornstarch"]
+      },
+      {
+        "heading": "Garnish",
+        "type": "list",
+        "items": ["2 TB sesame oil", "1/4 cup shredded leek", "1 tsp. chopped garlic"]
+      },
+      {
+        "heading": "To Prepare",
+        "type": "steps",
+        "items": [
+          "Clean the fish and marinate in sauce 1 for 15 minutes on both sides.",
+          "Slice the pork and marinate in sauce 2 for fifteen minutes.",
+          "In a large casserole, pan-fry the fish until crispy and brown. Add the rest of the ingredients and bring to a boil. Turn down and simmer, uncovered for half hour.",
+          "Add the cornstarch mixture to thicken sauce.",
+          "Sprinkle the garlic and leek on top of casserole. Heat 2 TB sesame oil separately and pour over the garlic and leek. Serve in casserole."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-shrimp-with-cashew-nuts",
+    "category": "fish",
+    "title": "Shrimp with Cashew Nuts",
+    "chineseTitle": "腰果蝦仁",
+    "image": "images/fish/p04.jpg",
+    "sections": [
+      {
+        "heading": "Sauce for marinating shrimp",
+        "type": "list",
+        "items": ["1/2 egg white", "1 TBS cornstarch", "1/2 tsp salt"]
+      },
+      {
+        "heading": "Seasoning mixture",
+        "type": "list",
+        "items": ["1 TBS rice wine", "1/4 tsp salt", "1 tsp sesame seed oil (麻油)"]
+      },
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": ["3/4 lb. shrimp", "1/4 cup scallion, cut into 1 inch long pieces", "10 slices fresh ginger", "1 cup cashew nuts"]
+      },
+      {
+        "heading": "To cook",
+        "type": "steps",
+        "items": [
+          "Clean the shrimp and dry with a paper towel.",
+          "Marinate the shrimp for 1/2 hour in the refrigerator.",
+          "Deep fry the shrimp in oil for 1/2 minute. Remove and drain.",
+          "Heat 2 TBS oil in the wok, brown the scallion and ginger, add the shrimp, seasoning mixture, and the nuts, and stir mixture until hot. Remove to a serving plate."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-smoked-fish",
+    "category": "fish",
+    "title": "Smoked Fish",
+    "chineseTitle": "燻魚",
+    "image": "images/fish/p05.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": ["1 1/2 LB fresh fish", "1 tsp sesame seed oil"]
+      },
+      {
+        "heading": "Marinating Sauce (A)",
+        "type": "list",
+        "items": ["3 sticks of scallion", "3 slices of ginger", "1 TBS wine", "1/2 tsp salt", "5 TBS dark soy sauce"]
+      },
+      {
+        "heading": "Marinating Sauce (B)",
+        "type": "list",
+        "items": ["1 cup hot water", "1/2 tsp Five Seasons powder", "4 TBS sugar"]
+      },
+      {
+        "heading": "To prepare",
+        "type": "steps",
+        "items": [
+          "Slice the fish into 2-inch thin slices (at an angle to the backbone), with the bones in. Marinate the fish in sauce (A) for at least 4 hours.",
+          "Deep fry the fish in hot oil until it gets brown and crispy. Remove the fish from the oil and immediately soak in sauce (B) for at least 5 minutes.",
+          "Heat the leftover sauce (A) over low heat until the sauce becomes thick. Add the sesame seed oil and the fish and allow it time to soak in sauce (A). Remove to a serving platter."
+        ]
+      },
+      {
+        "heading": "Note",
+        "type": "text",
+        "items": ["This fish is excellent served cold."]
+      }
+    ]
+  },
+  {
+    "id": "fish-lobster-cantonese",
+    "category": "fish",
+    "title": "Lobster Cantonese",
+    "chineseTitle": null,
+    "image": "images/fish/p06.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": ["1 1/2 LB live lobster", "1/2 LB ground pork", "1 TBS wine", "2 eggs", "1/2 cup soup stock"]
+      },
+      {
+        "heading": "Mixture A",
+        "type": "list",
+        "items": ["1 tsp chopped black bean", "1 clove garlic chopped", "3 sticks scallion cut into 1 inch lengths", "6 slices ginger"]
+      },
+      {
+        "heading": "Sauce B",
+        "type": "list",
+        "items": ["1/2 tsp black pepper", "1 tsp salt", "1 tsp sugar", "1 TBS soy sauce", "1 tsp sesame seed oil"]
+      },
+      {
+        "heading": "Sauce C",
+        "type": "list",
+        "items": ["1/2 TBS cornstarch", "1 TBS water"]
+      },
+      {
+        "heading": "To prepare",
+        "type": "steps",
+        "items": [
+          "Cut the lobster into 2 inch serving pieces and sprinkle with the wine.",
+          "Place the lobster on a plate and steam for 5 minutes. Remove from the steam pot.",
+          "Use 3 TBS oil to stir fry the pork and mixture A until the flavor comes out. Add the steamed lobster and cook together. Add Sauce B and a little broth at a time as it is cooking. Add Sauce C to thicken the mixture then add the eggs and continue to cook until the eggs become firm.",
+          "Serve immediately on a large platter."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-shrimp-with-lobster-sauce",
+    "category": "fish",
+    "title": "Shrimp with Lobster Sauce",
+    "chineseTitle": "蝦龍糊",
+    "image": "images/fish/p07.jpg",
+    "sections": [
+      {
+        "heading": "Shrimp and Marinating Sauce",
+        "type": "list",
+        "items": ["3/4 LB fresh shrimp", "2 TBS wine", "2 TBS cornstarch"]
+      },
+      {
+        "heading": "Mixture A",
+        "type": "list",
+        "items": ["2 slices finely chopped fresh ginger", "2 cloves garlic (crushed)", "1 fresh scallion (chopped)", "1 1/2 TBS salted black bean"]
+      },
+      {
+        "heading": "Meat",
+        "type": "list",
+        "items": ["1/4 LB ground meat"]
+      },
+      {
+        "heading": "Mixture B",
+        "type": "list",
+        "items": ["2 TBS soy sauce", "1/4 tsp MSG", "1/2 tsp salt", "1/4 tsp sugar"]
+      },
+      {
+        "heading": "Additional Ingredients",
+        "type": "list",
+        "items": ["1 cup chicken broth", "1 egg well beaten", "1 1/2 TBS cornstarch in 1/4 cup chicken broth", "1/4 cup shredded scallion"]
+      },
+      {
+        "heading": "To prepare",
+        "type": "steps",
+        "items": [
+          "Wash the shrimp with 1 tsp salt, rinse well and dry with a paper towel. Marinate the shrimp for at least 15 minutes and then chill them.",
+          "Quick stir fry the shrimp in 1 cup oil and drain and set aside.",
+          "Heat 3 TBS cooking oil in the wok and add A mixture, cooking until the flavor comes out (about 2 minutes). Add the ground meat and brown with A. Add the B mixture and cook together. Add the chicken broth, cover and cook for 2 minutes.",
+          "Return the shrimp to the wok mixture, add the cornstarch mixture, egg, and scallion, cook momentarily and serve hot."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-rainbow-fish",
+    "category": "fish",
+    "title": "Rainbow Fish",
+    "chineseTitle": null,
+    "image": "images/fish/p08.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": ["1 LB. white fish"]
+      },
+      {
+        "heading": "Sauce 1",
+        "type": "list",
+        "items": ["1 TB rice wine", "1 tsp. salt", "1/4 tsp. black pepper", "1 tsp. sesame oil"]
+      },
+      {
+        "heading": "Batter",
+        "type": "list",
+        "items": ["1/2 cup flour", "2 eggs", "2 TB water", "1/2 C chopped parsley", "2 TB finely chopped carrots"]
+      },
+      {
+        "heading": "Sauce 2",
+        "type": "list",
+        "items": ["1 tsp. scallion", "1 tsp. ginger", "1 tsp. garlic"]
+      },
+      {
+        "heading": "Sauce 3",
+        "type": "list",
+        "items": ["2 TB vinegar", "2 TB sugar", "2 TB ketchup", "2 TB water", "2/3 tsp. salt", "1 tsp. cornstarch"]
+      },
+      {
+        "heading": "To Prepare",
+        "type": "steps",
+        "items": [
+          "Cut fish into 2 inch strips and marinate in Sauce 1 for 15 minutes.",
+          "Dip each piece in the batter and deep fry over medium high heat til golden brown. Set aside.",
+          "In a sauce pan, saute sauce 2 in 2 TB oil til flavor comes out. Add sauce 3, and heat til thickened and glazed. Serve as a dipping sauce for the fish."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-steamed-fish-with-black-bean-sauce",
+    "category": "fish",
+    "title": "Steamed Fish with Black Bean Sauce",
+    "chineseTitle": "豉汁蒸魚",
+    "image": "images/fish/p09.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": ["1 Whole fish (1 - 2 LB)", "1/2 Cup chopped scallion", "1 TBS sesame seed oil", "2 TBS oil"]
+      },
+      {
+        "heading": "Seasoning Mixture",
+        "type": "list",
+        "items": ["4 TBS black bean sauce", "1 Red pepper cut into small pieces", "2 Ounces pork fat cut into small pieces"]
+      },
+      {
+        "heading": "To prepare",
+        "type": "steps",
+        "items": [
+          "Clean the fish and dry it with a towel. Rub the fish inside and out thoroughly with 1 tsp salt mixed with 1/2 tsp MSG.",
+          "Place a chopstick on the steam platter and place the fish on top of the chopstick. Cover the fish with the seasoning mixture.",
+          "Place the fish platter into the hot steamer and allow it to steam for about 12 minutes (no more than 15 minutes).",
+          "Remove the platter from the steamer and sprinkle the red pepper, sesame seed oil and scallion over the fish.",
+          "Heat the 2 TBS oil and sprinkle it hot over the scallion. Serve the fish immediately."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-black-bean-sauce",
+    "category": "fish",
+    "title": "Black Bean Sauce",
+    "chineseTitle": "鼓汁作法",
+    "image": "images/fish/p09.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": ["4 TBS black bean", "3 slices of chopped ginger", "4 garlic cloves chopped", "3 TBS water", "2 TBS soy sauce", "1 tsp sugar"]
+      },
+      {
+        "heading": null,
+        "type": "steps",
+        "items": [
+          "Soak the black beans in the water for 10 minutes and remove the water. Chop the black beans into a paste and chop in the ginger and garlic with it.",
+          "Heat 2 TBS oil to brown the mixture in (1). Add the sugar and soy sauce, cook for a short time, and it's ready to use."
+        ]
+      },
+      {
+        "heading": "PS",
+        "type": "text",
+        "items": ["This black bean sauce can be kept refrigerated for a long time to be used with a variety of dishes."]
+      }
+    ]
+  },
+  {
+    "id": "fish-salty-roast-shrimp",
+    "category": "fish",
+    "title": "Salty Roast Shrimp",
+    "chineseTitle": "鹽焗蝦",
+    "image": "images/fish/p10.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": ["1 LB shrimp with shells", "1 TBS wine", "1 TBS cornstarch", "2 tsp salt", "Dash MSG"]
+      },
+      {
+        "heading": "To prepare",
+        "type": "steps",
+        "items": [
+          "Clean the shrimp, cut the eyes off, dry them with a towel and marinate them in the wine for 15 minutes.",
+          "Sprinkle the cornstarch over all the shrimp and deep fry them in hot oil for 3 minutes. Drain and set aside.",
+          "Use a clean, dry wok and heat it up with just the salt and MSG (no oil). Quick roast the shrimp in the hot wok until the flavor comes out. Serve the shrimp hot."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-sauteed-prawns-in-hot-sauce",
+    "category": "fish",
+    "title": "Sauteed Prawns in Hot Sauce",
+    "chineseTitle": "乾燒明蝦",
+    "image": "images/fish/p11.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": [
+          "1 LB fresh prawns",
+          "1/2 TBS wine",
+          "1 tsp salt",
+          "2 cups shredded onion",
+          "1 TBS garlic",
+          "1 TBS ginger",
+          "1 TBS scallion",
+          "1 TBS hot bean sauce",
+          "1 TBS cornstarch"
+        ]
+      },
+      {
+        "heading": "Seasoning mixture",
+        "type": "list",
+        "items": ["1 TBS sugar", "2 TBS soy sauce", "1 tsp salt", "4 TBS water", "1/4 tsp black pepper", "1/2 TBS cornstarch", "1 tsp chili sesame seed oil"]
+      },
+      {
+        "heading": "To prepare",
+        "type": "steps",
+        "items": [
+          "Clean the prawn, dry them with a towel and marinate them in the wine and tsp salt.",
+          "Dust the prawn with the cornstarch and deep fry on both sides and set aside.",
+          "Stir fry the onion in a little oil until soft then remove to a serving platter.",
+          "Use 2 TBS oil to brown the hot bean sauce and add all the ingredients. Add the seasoning mixture and the prawn to the sauce, cook momentarily, and pour over the top of the onions. Serve hot."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-sweet-and-sour-whole-fish",
+    "category": "fish",
+    "title": "Sweet and Sour Whole Fish",
+    "chineseTitle": "糖醋全魚",
+    "image": "images/fish/p12.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": ["1 fresh fish", "2 black mushrooms", "1 carrot", "1/2 cup peas", "1/2 cup onions", "1 cup cornstarch"]
+      },
+      {
+        "heading": "Sauce Mixture",
+        "type": "list",
+        "items": ["3 TBS sugar", "3 TBS vinegar", "3 TBS catsup", "4 TBS water", "1 TBS wine", "1 tsp salt", "1 tsp cornstarch", "1 tsp sesame seed oil"]
+      },
+      {
+        "heading": "To prepare",
+        "type": "steps",
+        "items": [
+          "Thoroughly clean the fish, rinse and dry with a paper towel. Marinate it with 1 tsp salt and 1 TBS wine for 15 minutes. Coat the fish with cornstarch and set aside.",
+          "Heat 10 cups of oil and deep fry the fish for 5 minutes. Remove it from the oil and let the oil get hot again. Deep fry the fish a second time until it is golden brown and crispy. Remove it from the heat and set aside.",
+          "Heat 2 TBS oil in the wok and stir fry the vegetables. Add the sauce mixture and cook until the sauce becomes thick. Pour the sauce over the fish on a platter and serve hot.",
+          "Fillet of fish may be used in place of a whole fish."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-spiced-whole-fish-sze-chuan-style",
+    "category": "fish",
+    "title": "Spiced Whole Fish Sze-Chuan Style",
+    "chineseTitle": "豆瓣魚",
+    "image": "images/fish/p13.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": ["1 sea bass"]
+      },
+      {
+        "heading": "Marinating Sauce",
+        "type": "list",
+        "items": ["1 TBS wine", "1 tsp salt"]
+      },
+      {
+        "heading": "Mixture A",
+        "type": "list",
+        "items": ["1 TBS chopped ginger", "2 TBS chopped garlic", "2 TBS hot bean sauce (豆瓣醬)"]
+      },
+      {
+        "heading": "Mixture B",
+        "type": "list",
+        "items": ["1 1/2 cup water", "1 tsp sugar", "1 TBS sweet fermented rice (酒釀)", "1 tsp wine"]
+      },
+      {
+        "heading": "Mixture C",
+        "type": "list",
+        "items": ["2 tsp cornstarch", "1 tsp worcestershire sauce", "1 tsp sesame seed oil", "1 TBS chopped scallion", "1 TBS red chili peppers"]
+      },
+      {
+        "heading": "To prepare",
+        "type": "steps",
+        "items": [
+          "Clean the fish thoroughly, dry it, cleave it and marinate it for 30 minutes.",
+          "Sprinkle cornstarch over the fish and deep fry it until crispy. Set the fish aside.",
+          "In the wok use 2 TBS oil to brown Mixture A until the flavor comes out. Add Mixture B, cover and simmer for 10 minutes. Add Mixture C to the wok and heat and stir until the sauce becomes smooth. Pour it over the fish on a platter and serve hot."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-fried-jumbo-shrimp",
+    "category": "fish",
+    "title": "Fried Jumbo Shrimp",
+    "chineseTitle": null,
+    "image": "images/fish/p14.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": ["1 lb. fresh medium shrimp (remove shell) (or boneless chicken breast meat)"]
+      },
+      {
+        "heading": "Mixture A",
+        "type": "list",
+        "items": ["1/2 tsp salt", "1/2 tsp MSG", "1/8 tsp pepper", "1/2 tsp sesame oil", "1/2 tsp sugar", "1/2 tsp wine"]
+      },
+      {
+        "heading": "Batter Mixture",
+        "type": "list",
+        "items": ["1 cup flour", "1 cup water", "4 TBS salad oil", "2 tsp baking powder", "1 TBS corn starch"]
+      },
+      {
+        "heading": "To Prepare",
+        "type": "steps",
+        "items": [
+          "Wash shrimp and dry it with paper towel.",
+          "Marinate the shrimp in Mixture A for 10 minutes at room temperature.",
+          "Mix Batter Mixture slowly with a spoon, then dip shrimp in batter.",
+          "Deep fry in hot oil at 375 until they are a golden color."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-deep-fried-shrimp-balls",
+    "category": "fish",
+    "title": "Deep Fried Shrimp Balls",
+    "chineseTitle": null,
+    "image": "images/fish/p15.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": [
+          "1 egg well beaten (white only)",
+          "1 LB fresh shrimp",
+          "3 oz fat pork or 2 bacon strips",
+          "3 sticks of scallion",
+          "5 slices of ginger",
+          "2 TBS cornstarch",
+          "1/4 tsp red food color",
+          "dash MSG",
+          "1 tsp salt",
+          "1 TBS wine"
+        ]
+      },
+      {
+        "heading": "To prepare",
+        "type": "steps",
+        "items": [
+          "Soak the scallion and the ginger in 1 cup of water for 15 minutes.",
+          "Use the tsp of salt to clean the shrimp and then rinse them thoroughly. Dry the shrimp with a paper towel.",
+          "Use a cleaver to crush the shrimp and then chop it up together with the pork very fine until it becomes a very smooth paste.",
+          "Add the water that the scallion and ginger soaked in 1 TBS at a time, mixing well after each spoonful. Add 3-4 TBS only.",
+          "Add the egg white, MSG, salt, food coloring, and wine and mix well. Add the cornstarch and mix well again.",
+          "Heat 6-8 cups of oil in the wok. When it is very hot, reduce the heat. Wet the left hand and squeeze a small ball of the shrimp mixture in your left hand place it in a wet spoon in your right hand and place it in the oil. Continue this until the shrimp paste is gone.",
+          "Fry the shrimp balls at 350° for 3-4 minutes until browned. Drain the oil from them and place on a platter which has been garnished with lettuce, tomato, and cucumber. One can serve the balls with a catsup dip or a bowl containing a mixture of 1 TBS salt and 1 TBS pepper."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-dried-cooked-smelts",
+    "category": "fish",
+    "title": "Dried Cooked Smelts",
+    "chineseTitle": null,
+    "image": "images/fish/p16.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": ["1 lb. smelts"]
+      },
+      {
+        "heading": "Sauce 1",
+        "type": "list",
+        "items": ["1 TB wine", "1 TB vinegar", "2 TB soy sauce", "1/2 tsp. salt"]
+      },
+      {
+        "heading": "Sauce 2",
+        "type": "list",
+        "items": ["1 1/2 tsp. chopped scallion", "1 1/2 TB chopped ginger", "1 1/2 TB chopped garlic", "1/2 tsp. hot peppers"]
+      },
+      {
+        "heading": "Sauce 3",
+        "type": "list",
+        "items": ["1 TB soy sauce", "1 TB worcestershire sauce", "1 tsp. M.S.G", "1 1/2 TB sugar", "1 tsp. sesame oil", "1/2 tsp. cornstarch", "2 TB water"]
+      },
+      {
+        "heading": "To Prepare",
+        "type": "steps",
+        "items": [
+          "Rinse the smelts well and dry with paper towels.",
+          "Marinate in Sauce 1 for 15 minutes.",
+          "Heat oil until smoking hot and deep fry the smelts in two batches until crispy and well cooked but not burned. Set aside.",
+          "Saute Sauce 2 in two TB oil until the flavor comes out. Add Sauce 3 and stir until glazed. Add the smelts and toss until well-coated."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-squid-and-spice-sauce",
+    "category": "fish",
+    "title": "Squid and Spice Sauce",
+    "chineseTitle": null,
+    "image": "images/fish/p17.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": ["1 Lb fresh squid"]
+      },
+      {
+        "heading": "Sauce 1",
+        "type": "list",
+        "items": ["2 TBS oil", "1/2 tsp baking soda"]
+      },
+      {
+        "heading": "Sauce 2",
+        "type": "list",
+        "items": ["1 TBS white vinegar", "1 tsp red pepper", "1/2 tsp sugar", "1/2 tsp black pepper", "1/2 tsp sesame seed oil", "1 1/2 tsp cornstarch"]
+      },
+      {
+        "heading": "Mixture A",
+        "type": "list",
+        "items": ["2 to 4 scallion sticks", "2 to 4 slices fresh ginger", "1 TBS chopped garlic"]
+      },
+      {
+        "heading": "Mixture B",
+        "type": "list",
+        "items": ["1 green pepper cut into pieces", "1/2 cup carrots cut into pieces"]
+      },
+      {
+        "heading": "To prepare",
+        "type": "steps",
+        "items": [
+          "Clean the squid, carve in a pattern, and marinate in sauce 1 for 30 minutes. Use deep frying oil to quick fry the squid. As soon as it changes color remove it from the heat and set aside.",
+          "Heat the wok, brown mixture A then add mixture B and the squid as well as sauce 2. Cook for a moment and serve hot."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-spicy-rainbow-shrimp",
+    "category": "fish",
+    "title": "Spicy Rainbow Shrimp",
+    "chineseTitle": null,
+    "image": "images/fish/p18.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": ["1/2 lb. shrimp"]
+      },
+      {
+        "heading": "Sauce 1",
+        "type": "list",
+        "items": ["1/4 tsp. salt", "1/2 tsp. wine", "1/2 egg white", "2 tsp. cornstarch"]
+      },
+      {
+        "heading": "Sauce 2",
+        "type": "list",
+        "items": ["1/4 tsp. salt", "1/4 tsp. MSG", "1/4 tsp. black pepper", "1/4 tsp. sesame oil", "1 TB water", "1/2 tsp. cornstarch", "1 TB chili sauce", "1 tsp. wine"]
+      },
+      {
+        "heading": "Vegetables",
+        "type": "list",
+        "items": [
+          "1/3 cup bamboo shoots diced",
+          "1/3 cup diced carrots",
+          "1/3 c diced mushrooms",
+          "1/3 cup diced water chestnuts",
+          "1/4 cup diced celery",
+          "1/4 cup diced onion",
+          "2 slices ginger"
+        ]
+      },
+      {
+        "heading": "To Prepare",
+        "type": "steps",
+        "items": [
+          "Marinate shrimp for 15 minutes in sauce 1. Stir-fry in 1 TB oil until the color changes and remove to the side.",
+          "Use 2 TB oil and stir-fry all the ingredients. Add the shrimp and the sauce 2 and cook togeher til well blended. Serve immediately."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-broccoli-and-scallops-in-garlic-sauce",
+    "category": "fish",
+    "title": "Broccoli and Scallops in Garlic Sauce",
+    "chineseTitle": null,
+    "image": "images/fish/p19.jpg",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "type": "list",
+        "items": ["1/2 lb. scallops", "1 TB chopped garlic", "1 bunch broccoli"]
+      },
+      {
+        "heading": "Sauce",
+        "type": "list",
+        "items": [
+          "1 1/2 tsp. wine",
+          "3 TB soy sauce",
+          "1/2 tsp. MSG",
+          "1 TB sugar",
+          "1 tsp. sesame oil",
+          "1 tsp. vinegar",
+          "1 tsp. cornstarch",
+          "3 TB water",
+          "1 TB chili sauce"
+        ]
+      },
+      {
+        "heading": "To Prepare",
+        "type": "steps",
+        "items": [
+          "Use one TB oil to stir-fry the scallops and remove to the side.",
+          "Use one TB oil to stir-fry the broccoli and remove to the side.",
+          "Use one TB oil to stir-fry the garlic until the flavor comes out. Add the sauce ingredients and bring to a boil. It should be shiny and thick.",
+          "Add the scallops and the broccoli; mix well and serve."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-red-cooked-fish",
+    "category": "fish",
+    "title": "Red Cooked Fish",
+    "chineseTitle": "紅燒魚",
+    "image": "images/fish2/p01.jpg",
+    "sections": [
+      {
+        "heading": "Marinating Sauce",
+        "type": "list",
+        "items": ["1 TBS wine", "1 tsp salt"]
+      },
+      {
+        "heading": "Mixture A",
+        "type": "list",
+        "items": ["3 TBS chopped scallion", "1 TBS chopped garlic", "1 TBS chopped ginger", "1 TBS chopped red pepper"]
+      },
+      {
+        "heading": "Mixture B",
+        "type": "list",
+        "items": ["3 TBS soy sauce", "1 TBS wine", "1 TBS sugar"]
+      },
+      {
+        "heading": "Mixture C",
+        "type": "list",
+        "items": ["1 cup soup stock", "1 tsp cornstarch", "1 tsp sesame seed oil"]
+      },
+      {
+        "heading": "To prepare",
+        "type": "steps",
+        "items": [
+          "Clean and carve a 1 1/2 to 2 lb fish and marinate it in the sauce for 15 minutes or more. Heat 3 TBS oil in a wok and fry the fish until both sides are brown. Add mixture A and cook until the aroma comes out of the pan.",
+          "Add mixture B ingredients and then add soup stock. Bring the mixture to a boil then reduce the heat and simmer cook with the cover on for 10 minutes or more until the sauce becomes rich and thick by adding cornstarch mixture and sesame seed oil. Serve hot."
+        ]
+      }
+    ]
+  }
+]
